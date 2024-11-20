@@ -3,3 +3,4 @@
 
 ## app run command production run  npm start or development run command npm run dev 
 
+## user Schima reated paload is firstName,lastName,email,password,
